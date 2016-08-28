@@ -16,3 +16,21 @@ product and should know to do team work.
 #Learnt about the principles of Software Engineering- Abstraction and Decomposition.
 #Learnt about the different types of software - Generic and Custom Software.
 #Try to solve essential problems and avoid accidental problems. 
+
+
+#Week4
+#Different terms related to the definition of Software Engineering were discussed- Multi-person and Multi version software, Fault-free
+and systematic approach to design software.
+#Lifecycle models for software were discussed- Traditional and agile. Traditional models are plan driven models whereas agile models 
+involve tough deadlines to complete tasks.(Agile models not covered yet). Even though life cycle models are grouped, the basic outline 
+for both the models is one and the same,i.e., software is designed, developed, tested and deployed.
+#Examples of various  models are Scrum,Crystal Lean, XP, DSDM, RUP, PSP etc.
+#Deming principle of PDCA- Plan do check and act was introduced.
+#The gap between the problem world and solution world has to be bridged when a software is designed.
+#While building a software for customer, design it keeping in mind the role of the customer and not the customer himself.
+#Requirements engineering process was also discussed.
+#Discussed abouth the requirements and stakeholders of Facebook and tried to represent this using a mathematical notation. I used propositional
+logic to represent it.
+#Many formal methods exist to represent these requirements. Finite automata is one of them. If formal methods were not used, then all the 
+softwares would have 1 lac requirement lines as the Boeing aircraft. 
+
