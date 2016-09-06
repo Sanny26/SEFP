@@ -34,3 +34,22 @@ logic to represent it.
 #Many formal methods exist to represent these requirements. Finite automata is one of them. If formal methods were not used, then all the 
 softwares would have 1 lac requirement lines as the Boeing aircraft. 
 
+
+#Week5
+#Iterative waterfall model, prototype model , evolutionary model and spiral model were discussed. Instances where each model can 
+be used were pointed out.
+#Agile processes was introduced. We debated the pros and cons of the agile manifesto. Agile manifesto talks about the preferences
+that needs to be given so that the designed product can be cost effective,minimal and optimal effort and prioritized preferences.
+#Learnt about the term 'Pair programming' and how much it is important for each developer to understand and test all the aspects
+of a software product.
+#Product quality and process should always be co-related while designing a product.
+#Zachman Framework was discussed.
+#Scrum, an agile model was discussed in detail. Each step involved in this model was explained.
+#Learnt about user-stories as well (who,what and why).
+#A product can be estimated in terms of the size, effort and resources needed to complete the product.
+#Varoius estimation methodolgies include- Top Down, Bottom up, Expert judgement, Priced to win and Parametric/Algorithmic methods.  
+#Barry Boehm's COCOMO (COnstructive COst MOdel) was discussed in brief. This model would take LOC as input and return person-months as output.
+It is one of the estimation methods.
+
+
+
