@@ -51,5 +51,16 @@ of a software product.
 #Barry Boehm's COCOMO (COnstructive COst MOdel) was discussed in brief. This model would take LOC as input and return person-months as output.
 It is one of the estimation methods.
 
-
+# Week6
+#The topic of software design was introduced in the class.
+#Design involves the transition from possible solutions to a specific one.
+#Design involves analysis, synthesis and evaluation of goals,contraints,assumptions deciosin and ideas.
+#Wireframes was discussed in class again. Balsamiq wireframe was given as an example.
+#Software design can expressed using UI mockup, ER diagram and sequence diagram.
+#Software design represents an abstracted form of the plan and modules required.
+#Design tools decrease the burden of creating design atrifacts, increase the abitlity of interpreting design artifacts 
+and sharability.
+#Model-driven development was introduced in class.
+#Software Design should be documented, modular, abstract and should be assessed for quality as well.
+#Design modules should support maintenance and verification.
 
