@@ -64,3 +64,30 @@ and sharability.
 #Software Design should be documented, modular, abstract and should be assessed for quality as well.
 #Design modules should support maintenance and verification.
 
+# Week 7
+# Various profiles and characteristics of users was discussed. While designing apiece of software the developer must consider the level
+of expertise that the users(in general) might have with regar dto software usage, how frequently the users will use the piece of software and their
+capabilities and constraints.
+# Various UI designs were discussed and few examples of bad designs were pointed out in the class.
+# Natural user inteface was introduced this week.
+
+# Week 8
+# UML class diagrams, sequence diagrams were discussed again in the class.
+# Pattern based design was introduced this week.
+# Problem + Solution + Context= Leads to a pattern 
+# 23 patterns have been observed in software engineering. These observations were made by "Gang of four". They also classified patterns
+into creational patterns,structural patterns and beavioural patterns.
+# Under the creational patterns, Factory and abstract factory models were discussed. These patterns try to provide an abstract form to
+classes so that they can be used in general.
+# Momento pattern was also discussed.
+
+# Week 9
+#Anti patterns was introduced. Lava flow,The blob, Refactoring was discussed.
+#Brainstormed about the paper summary submitted-Big data for engineering solutions.
+#Brainstromed about how Machine learning algorithms can be applied for code,requirement analysis etc.
+
+
+
+
+
+
